@@ -61,7 +61,8 @@ while True:
 		else:
 			print("Ai:Answer:", water, "not found")
 			
-			
+	else:
+		print("Ai:Not found")	
 	#own code
 	#...
 	#...
